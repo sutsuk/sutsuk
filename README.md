@@ -2,7 +2,7 @@
 
 | Attribute | Value |
 | --------- | ----- |
-| Name | Utsuki |
+| Name | sutsuk |
 | Country | Japan |
-| Age | 20 |
+| Age | 21 |
 | Favorite Language | C, PHP, HTML, JavaScript |
